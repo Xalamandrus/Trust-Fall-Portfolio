@@ -6,7 +6,7 @@ Projekt "Trust Fall" to ciągle rozwijana gra, nad którą pracujemy w 4-osobowy
 
 Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, programowanie wszystkich mechanik, wymyślanie całego konceptu gry oraz dodatkowo tworzenie grafik interfejsu.
 
-# W-Porftolio-Umieszczam
+# W-Portfolio-Umieszczam
 
 - Skrypty odpowiedzialne za tworzenie pól szablonów mapy oraz ich aktywowanie pod sobą.
   - [PoolingMapManager.cs](Scripts/ObjectPooling/PoolingMapManager.cs)
