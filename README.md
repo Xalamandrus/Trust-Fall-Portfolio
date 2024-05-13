@@ -13,7 +13,7 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
   - [PoolingScriptableObject.cs](Scripts/ObjectPooling/PoolingScriptableObject.cs)
  
 - Skrypty odpowiedzialne za zarządzanie ruchem gracza oraz jego statystykami.
-  - [PlayerManager.cs]
-  - [PlayerMovement.cs]
-  - [PlayerHealth.cs]
-  - [StatisticComponent.cs]
+  - [PlayerManager.cs](Scripts/Player/PlayerManager.cs)
+  - [PlayerMovement.cs](Scripts/Player/PlayerMovement.cs)
+  - [PlayerHealth.cs](Scripts/Player/PlayerHealth.cs)
+  - [StatisticComponent.cs](Scripts/Player/StatisticComponent.cs)
