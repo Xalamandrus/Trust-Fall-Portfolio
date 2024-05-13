@@ -1,6 +1,6 @@
 # Trust-Fall
 
-Projekt "Trust Fall" to ciągle rozwijana gra, nad którą pracujemy w 4-osobowym zespole składającym się z 3 grafików, 2 designerów i 1 programisty. Głównym założeniem projektu jest stworzenie dynamicznej rozgrywki, w której gracz spada i pokonuje różne biomy z unikalnymi przeszkodami i mechanikami. Celem gry jest omijanie przeszkód i dotarcie jak najgłębiej do jaskini.
+Projekt "Trust Fall" to ciągle rozwijana gra, nad którą pracujemy w 4-osobowym zespole składającym się z trzech grafików, dwóch designerów i jednego programisty. Głównym założeniem projektu jest stworzenie dynamicznej rozgrywki, w której gracz spada i pokonuje różne biomy z unikalnymi przeszkodami i mechanikami. Celem gry jest omijanie przeszkód i dotarcie jak najgłębiej do jaskini.
 
 # Moja-Rola-W-Zespole
 
