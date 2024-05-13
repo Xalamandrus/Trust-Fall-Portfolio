@@ -24,8 +24,7 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
   - [StalactiteEventTrigger.cs](Scripts/Events/Stalactite/StalactiteEventTrigger.cs)
 
 - Skrypty dodatkowe.
-  ~ aaaa
-    - [HealthBar.cs]
     - [GameManager.cs]
     - [MonoSingleton.cs]
     - [DepthSystem.cs]
+    - [HealthBar.cs]
