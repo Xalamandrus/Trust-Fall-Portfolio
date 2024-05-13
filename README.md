@@ -8,9 +8,12 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
 
 # W-Porftolio-Umieszczam
 
-- Skrypty odpowiedzialne za tworzenie pól szablonów mapy oraz ich aktywowanie pod sobą, co prowadzi do generowania terenu.
+- Skrypty odpowiedzialne za tworzenie pól szablonów mapy oraz ich aktywowanie pod sobą.
   - [PoolingMapManager.cs](Scripts/ObjectPooling/PoolingMapManager.cs)
   - [PoolingScriptableObject.cs](Scripts/ObjectPooling/PoolingScriptableObject.cs)
+ 
+- Skrypt odpowiedzialny za przesówanie obiektów w górę.
+  - [VectorMoveY.cs](Scripts/VectorMoveY.cs)
  
 - Skrypty odpowiedzialne za zarządzanie ruchem gracza oraz jego statystykami.
   - [PlayerManager.cs](Scripts/Player/PlayerManager.cs)
@@ -18,12 +21,12 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
   - [PlayerHealth.cs](Scripts/Player/PlayerHealth.cs)
   - [StatisticComponent.cs](Scripts/Player/StatisticComponent.cs)
 
-- Skrypt odpowiedzialny za event spadających Stalagtytów.
+- Skrypty odpowiedzialne za eventy.
   - [Stalactite.cs](Scripts/Events/Stalactite/Stalactite.cs)
   - [StalactiteEvent.cs](Scripts/Events/Stalactite/StalactiteEvent.cs)
   - [StalactiteEventTrigger.cs](Scripts/Events/Stalactite/StalactiteEventTrigger.cs)
+  - [DepthSystem.cs](Scripts/Events/DepthSystem.cs)
 
-- Skrypty dodatkowe.
+- Skrypty GameManagera.
     - [GameManager.cs](Scripts/Manager/GameManager.cs)
     - [MonoSingleton.cs](Scripts/Manager/MonoSingleton.cs)
-    - [DepthSystem.cs](Scripts/Manager/DepthSystem.cs)
