@@ -17,3 +17,11 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
   - [PlayerMovement.cs](Scripts/Player/PlayerMovement.cs)
   - [PlayerHealth.cs](Scripts/Player/PlayerHealth.cs)
   - [StatisticComponent.cs](Scripts/Player/StatisticComponent.cs)
+
+- Skrypt odpowiedzialny za event spadających Stalagtytów.
+  - 
+
+- Skrypty dodatkowe.
+    - [HealthBar.cs]
+    - [GameManager.cs]
+    - [MonoSingleton.cs]
