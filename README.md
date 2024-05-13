@@ -27,3 +27,4 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
     - [HealthBar.cs]
     - [GameManager.cs]
     - [MonoSingleton.cs]
+    - [DepthSystem.cs]
