@@ -10,7 +10,7 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
 
 - Skrypty odpowiedzialne za tworzenie pól szablonów mapy oraz ich aktywowanie pod sobą, co prowadzi do generowania terenu.
   [
-    (
+    (a)
   ]
 - 
 - Skrypty odpowiedzialne za zarządzanie ruchem gracza oraz jego statystykami.
