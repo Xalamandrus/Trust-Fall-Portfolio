@@ -30,3 +30,5 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
 - Skrypty GameManagera.
     - [GameManager.cs](Scripts/Manager/GameManager.cs)
     - [MonoSingleton.cs](Scripts/Manager/MonoSingleton.cs)
+    - 
+![Hierarchy](https://github.com/Xalamandrus/Trust-Fall-Portfolio/assets/129590016/f2d5ba04-d596-4f42-8a0b-20234eabb4a0)
