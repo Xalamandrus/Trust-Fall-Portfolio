@@ -9,7 +9,7 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
 # W-Porftolio-Umieszczam
 
 - Skrypty odpowiedzialne za tworzenie pól szablonów mapy oraz ich aktywowanie pod sobą, co prowadzi do generowania terenu.
-  - PoolingMapManager();
-  - PoolingScriptableObject();
+  - PoolingMapManager.cs;
+  - PoolingScriptableObject.cs;
  
 - Skrypty odpowiedzialne za zarządzanie ruchem gracza oraz jego statystykami.
