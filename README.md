@@ -9,7 +9,3 @@ Projekt "Trust Fall" to ciągle rozwijana gra, nad którą pracujemy w 4-osobowy
 Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, programowanie wszystkich mechanik, wymyślanie całego konceptu gry oraz dodatkowo tworzenie grafik interfejsu.
 
 # W-Porftolio-Umieszczam
-
-Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich poziomów gry, zarządzanie pracą w silniku Unity oraz projektowanie AI przeciwników. Byłem odpowiedzialny za kształtowanie świata gry, dbanie o płynność rozgrywki oraz zaprogramowanie AI przeciwników.
-
-Full Gameplay Video: https://www.youtube.com/watch?v=G9KOc0nbG6A
