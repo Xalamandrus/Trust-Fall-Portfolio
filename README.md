@@ -19,7 +19,9 @@ Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, program
   - [StatisticComponent.cs](Scripts/Player/StatisticComponent.cs)
 
 - Skrypt odpowiedzialny za event spadających Stalagtytów.
-  - 
+  - [Stalactite.cs](Scripts/Events/Stalactite/Stalactite.cs)
+  - [StalactiteEvents.cs](Scripts/Events/Stalactite/StalactiteEvents.cs)
+  - [StalactiteEventTrigger.cs](Scripts/Events/Stalactite/StalactiteEventTrigger.cs)
 
 - Skrypty dodatkowe.
     - [HealthBar.cs]
