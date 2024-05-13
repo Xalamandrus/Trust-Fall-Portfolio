@@ -2,6 +2,8 @@
 
 Projekt "Trust Fall" to ciągle rozwijana gra, nad którą pracujemy w 4-osobowym zespole składającym się z trzech grafików, dwóch designerów i jednego programisty. Głównym założeniem projektu jest stworzenie dynamicznej rozgrywki, w której gracz spada i pokonuje różne biomy z unikalnymi przeszkodami i mechanikami. Celem gry jest omijanie przeszkód i dotarcie jak najgłębiej do jaskini.
 
+Prezentacja projektu i mechanik: https://www.youtube.com/watch?v=l5hzENiRf84
+
 # Moja-Rola-W-Zespole
 
 Moja główna rola w zespole obejmuje zarządzanie całym projektem gry, programowanie wszystkich mechanik, wymyślanie całego konceptu gry oraz dodatkowo tworzenie grafik interfejsu.
